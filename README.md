@@ -35,7 +35,7 @@ Use this repository to try requests from Feishu and review the pull requests cre
 
 如需调整，在 PR 中留下审核意见。PR 已创建不代表已经审核通过或合并；可在 GitHub PR 页面查看当前状态。
 
-### 4. 人工审核并合并 PR
+### 4. 人工审阅并合并 PR
 
 由人工审核者确认修改符合预期、必要反馈已处理，并检查仓库要求的检查结果。确认可以合并后，由有权限的人员在 GitHub PR 页面执行合并；代理不会自动合并 PR。
 
