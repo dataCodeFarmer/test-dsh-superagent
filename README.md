@@ -19,6 +19,8 @@ Use this repository to try requests from Feishu and review the pull requests cre
 
 ### 2. 通过飞书提交任务
 
+详见[飞书机器人使用指南](docs/feishu-usage.md)，了解真实 @ 提及、私聊、补充要求、询问进度和停止任务的方法。
+
 在群聊中提及 `@dsh-superagent`，说明目标文件、期望结果和限制条件，并要求创建 PR。例如：
 
 ```text
