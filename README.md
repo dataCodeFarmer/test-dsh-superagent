@@ -29,7 +29,7 @@ Use this repository to try requests from Feishu and review the pull requests cre
 
 不要要求将密码、访问令牌或私密聊天内容写入 GitHub。若代理在原对话中请求补充必要信息或访问权限，请在该对话中回复。
 
-### 3. 查看结果与反馈
+### 3. 查看结果与审阅反馈
 
 任务完成并可供审核后，在原飞书对话中打开代理回复的 PR 链接。阅读 PR 描述，在 **Files changed** 中逐项核对修改是否符合要求，并检查可用的自动化检查结果。
 
