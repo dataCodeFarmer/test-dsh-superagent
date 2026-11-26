@@ -19,6 +19,13 @@ Use this repository to try requests from Feishu and review the pull requests cre
 | 通过飞书向机器人提交任务 | 介绍群聊真实提及与私聊方式、补充要求、询问进度、停止任务、跨渠道沟通及人工审阅，并说明无回应时的检查方法。 | [docs/feishu-usage.md](docs/feishu-usage.md) |
 | 通过 GitHub 提交任务与查看结果 | 介绍 GitHub 任务的准备工作、通过 Issue 提及 `@duspring` 提交任务、查看结果与补充信息，以及人工审核和合并规则。 | [docs/github-usage.md](docs/github-usage.md) |
 
+## 推荐阅读顺序
+
+先阅读 [README.md](README.md)，了解本仓库的用途和人工审阅 PR 的协作流程，再根据提交任务的渠道选择阅读路径：
+
+- **从 GitHub 提交任务**：先读 [GitHub 使用指南](docs/github-usage.md)，了解提交任务与查看结果的方法；再读 [GitHub 任务演示](docs/demo-github-flow.md)，查看具体流程。
+- **从飞书提交任务**：先读 [飞书使用指南](docs/feishu-usage.md)，了解真实提及、私聊和任务沟通方式；再读 [飞书任务演示](docs/demo-feishu-flow.md)，查看具体流程。
+
 ## 使用流程
 
 ### 1. 准备工作
